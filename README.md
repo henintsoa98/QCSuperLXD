@@ -22,7 +22,7 @@ cd
 mkdir tempdir
 cd tempdir
 ```
-Download this (image)[https://drive.google.com/file/d/1nlfxKUWMWXk-DziegP4e8R3gepsNGxpA/view?usp=sharing] and copy it to ~/tempdir,
+Download this [image](https://drive.google.com/file/d/1nlfxKUWMWXk-DziegP4e8R3gepsNGxpA/view?usp=sharing) and copy it to ~/tempdir,
 ```
 git clone --depth 1 https://github.com/henintsoa98/QCSuperLXD
 cd QCSuperLXD
